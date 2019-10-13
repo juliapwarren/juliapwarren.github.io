@@ -4139,6 +4139,29 @@ body {
 .cid-rpaxZGjfiG .mbr-text {
   color: #767676;
 }
+.cid-rEKfQ0FRCr {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
+.cid-rEKfQ0FRCr .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rEKfQ0FRCr .section-text {
+  padding: 2rem 0;
+}
+.cid-rEKfQ0FRCr .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rEKfQ0FRCr .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-rEKdWhYYnF {
   padding-top: 60px;
   padding-bottom: 60px;
